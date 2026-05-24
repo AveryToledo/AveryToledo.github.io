@@ -1,0 +1,35 @@
+BEGIN:VCARD
+VERSION:3.0
+
+N:Toledo;Avery;;;
+FN:Avery Toledo
+
+ORG:NYC Commission on Racial Equity (CORE)
+TITLE:Senior Fiscal Associate / ACCO
+
+EMAIL;TYPE=WORK:avtoledo@core.nyc.gov
+
+TEL;TYPE=WORK:(212)312-2494
+
+TEL;TYPE=CELL:(929)742-9234
+
+URL:https://www.nyc.gov/content/core/pages/
+
+URL:https://www.linkedin.com/company/racialequitynyc
+
+URL:https://x.com/RacialEquityNYC
+
+URL:https://www.instagram.com/racialequitynyc/
+
+URL:https://www.facebook.com/RacialEquityNYC/
+
+URL:https://medium.com/@RacialEquityNYC
+
+ADR;TYPE=WORK:;;22 Reade Street;New York;NY;10007;USA
+
+NOTE:Public Sector Operations | Procurement | Finance
+
+PHOTO;VALUE=URI:
+https://AveryToledo.github.io/assets/avery-photo.jpg
+
+END:VCARD
